@@ -1,5 +1,5 @@
 # flask-web
-using flask to develop a web based login system
+Using flask to develop a web based login system
 
 ## Description
 
@@ -29,5 +29,4 @@ lp1064057694@gmail.com
 * 0.1
     * Initial Release
 
-## Acknowledgments
 
